@@ -20,7 +20,7 @@ Strong communication skills for smooth collaboration.
 Continuous learner, staying updated with the latest in Flutter and Dart.
 
 📫 How to Reach Me:
-You can reach me via [email](m408518892@gmail.com) 
+📧Email: [m408518892@gmail.com](mailto:m408518892@gmail.com)  
 ⚡ Fun Fact: I love coding at night, as I feel that creativity flows better!
 
 
